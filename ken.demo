@@ -1,2 +1,3 @@
-print(' This is the main file for ken_demopygit repository')
-print("This has been committed")
+print() # Add this line
+print('This is the main file for ken_demopygit repository')
+print("This has been committed") # Add this line also
